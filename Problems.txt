@@ -1,5 +1,7 @@
 1. Generate access statistics to a Tomcat application. The following statistics should be generated:
-* most frequent hour when the users access the website
-* how many users per day
-* how often each url is accesssed per hour/day
-* the golden minute: the minute in the day when the website was most accessed
+* most frequent hour when the users access the website. Top 10 values.
+* how many accesses per day
+* how often each url is accesssed per hour/day. Sorted descendently.
+* the golden minute: the minute in the day when the website was most accessed. Top 10 values.
+
+2. Exercises listed in: http://www.tldp.org/LDP/abs/html/exercises.html
